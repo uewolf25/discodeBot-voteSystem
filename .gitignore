@@ -1,0 +1,8 @@
+.DS_Store
+.env-ruby
+.env-python3.6
+.idea/
+vote.py
+danger.txt
+discord.py/
+sample.py
