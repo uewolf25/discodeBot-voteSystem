@@ -46,4 +46,4 @@ async def on_message(message):
             # print('テストー\n')
 
 
-client.run(TOKEN)
+client.run(YOUR_TOKEN)

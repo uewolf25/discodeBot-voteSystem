@@ -6,3 +6,5 @@ vote.py
 danger.txt
 discord.py/
 sample.py
+
+__pycache__
